@@ -1,8 +1,15 @@
-# Accelerated Computer Science Fundamentals Example Code
+# Implement Data Structures Using C++
 
-This example code is meant to accompany the following online course sequence:
+## Object-Oriented Data Structures in C++
 
-https://www.coursera.org/specializations/cs-fundamentals
+- Week 1: Writing a C++ Program
+- Week 2: Understanding the C++ Memory Model
+- Week 3: Developing C++ Classes
+- Week 4: Engineering C++ Software Solutions
 
-Additional examples (or any bits we may have missed) may still be added. Feel free to raise an issue if you feel something in particular is missing.
+## Ordered Data Structures
 
+- Week 1: Linear Structures
+- Week 2: Introduction to Tree Structures
+- Week 3: Advanced Tree Structures
+- Week 4: Heap Structures
